@@ -13,7 +13,7 @@ SECRET_KEY = 'y&ma&g0z0r603*p2qz9^hotn**h60eey1w2kwb)glz#sdtt8&)'
 DEBUG = True
 # ALLOWED_HOSTS = ['192.168.1.163','127.0.0.1']
 ALLOWED_HOSTS = [
-   'labsosv1.herokuapp.com',
+   'sim-labsos.herokuapp.com',
    'localhost',
 ]
 
